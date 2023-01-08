@@ -32,6 +32,7 @@ public class Salad {
 
     public ArrayList<String> getToppings() {
         return toppings;
+        
     }
 
     public void setToppings(ArrayList<String> toppings) {
