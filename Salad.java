@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+
 public class Salad {
 
     // -- Attributes - variables that describes a salad
